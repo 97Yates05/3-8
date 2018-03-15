@@ -13,7 +13,7 @@ public class Duty {
         return postion_number;
     }
 
-    public void setPostion_number(int postion_number) {
+    public void etPostion_number(int postion_number) {
         this.postion_number = postion_number;
     }
 
